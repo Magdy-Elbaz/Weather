@@ -54,3 +54,9 @@ body {
   font-size: 20px;
   cursor: pointer;
 }
+
+@media (max-width: 767px) {
+  .card{
+    width: 300px;
+  }
+}
