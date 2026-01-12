@@ -19,7 +19,7 @@ i18n
     },
     // ضيف الجزء ده بالظبط
     backend: {
-      loadPath: '/locales/{{lng}}/translation.json',
+      loadPath: '/Locales/{{lng}}/translation.json',
     }
   });
 
